@@ -1,4 +1,4 @@
-# Enterprise Retail Analytics Data Warehouse
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/b66c7810-6d9e-4a1f-abc5-bcc0668d6fdd" /># Enterprise Retail Analytics Data Warehouse
 
 A comprehensive data warehousing solution designed to transform raw ERP and CRM data into actionable business insights using a robust Medallion Architecture (Staging, Refine, Analytics).
 
@@ -9,6 +9,9 @@ The project follows a layered data architecture to ensure data quality and analy
 1.  **Staging Layer** (`etl_staging`): Ingests raw data from **CRM** and **ERP** source systems (CSV format) into the data warehouse.
 2.  **Refine Layer** (`etl_refine`): Cleanses, standardizes, and integrates data. Handles deduping, null handling, and domain value mapping.
 3.  **Analytics Layer** (`analytics_models`): Models data into a Star Schema (Dimensions and Facts) optimized for reporting and dashboarding.
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/abd47b60-bc1c-46fd-afe4-20fc3bd56cea" />
+
+
 
 ### Key Layers
 - **Staging**: `staging.crm_*`, `staging.erp_*`
