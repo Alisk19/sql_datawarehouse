@@ -1,4 +1,3 @@
-<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/b66c7810-6d9e-4a1f-abc5-bcc0668d6fdd" /># Enterprise Retail Analytics Data Warehouse
 
 A comprehensive data warehousing solution designed to transform raw ERP and CRM data into actionable business insights using a robust Medallion Architecture (Staging, Refine, Analytics).
 
