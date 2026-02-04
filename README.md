@@ -103,6 +103,8 @@ EXEC refined.load_refined;
 
 4.Validate Data Quality
 Execute the scripts in the quality_checks/ directory to verify data accuracy and integrity.
+
+
 📊 Analytics & Insights
 
 The Analytics Layer enables business-focused analysis, including:
@@ -115,6 +117,8 @@ Insights by gender, location, and marital status
 
 Product Analytics
 Performance by product category and product line
+
+
 🛠️ Technologies Used
 
 SQL Server
