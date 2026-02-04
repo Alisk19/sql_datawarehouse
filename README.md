@@ -27,7 +27,8 @@ The analytics layer models data into a **Star Schema** optimized for reporting a
 - Business-ready metrics  
 - Optimized for BI and ad-hoc analysis  
 
-![Data Architecture](documentation/data_architecture.png)
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/458fb244-d916-4f8b-9c6d-7fff5ef57650" />
+
 
 ### Key Schemas
 - **Staging**: `staging.crm_*`, `staging.erp_*`
